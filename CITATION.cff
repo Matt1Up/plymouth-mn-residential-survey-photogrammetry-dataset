@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
-title: "Thirteen Missions Over Plymouth: a waypoint drone survey, Plymouth, Minnesota"
+title: "Thirteen Mission Waypoint Drone Survey | Plymouth, Minnesota, USA"
 abstract: >-
   A complete drone photogrammetry image set of a residential complex in Plymouth, Minnesota,
   captured October 22, 2026 with a DJI FC9313 at native 4096x3072 resolution, as 13 waypoint

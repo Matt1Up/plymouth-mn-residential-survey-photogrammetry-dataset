@@ -1,4 +1,4 @@
-# Thirteen Missions Over Plymouth — a waypoint drone survey, Plymouth, Minnesota
+# Thirteen Mission Waypoint Drone Survey | Plymouth, Minnesota, USA
 
 1,421 drone photographs of a residential complex in Plymouth, Minnesota, flown on October 22,
 2026 as **13 waypoint missions**: two crosshatched nadir grids, one large orbit and ten small
@@ -252,7 +252,7 @@ More detail in **[docs/download.md](https://github.com/Matt1Up/plymouth-mn-resid
 [Creative Commons Attribution 4.0](LICENSE). Commercial use and ML training are fine. Credit required.
 
 ```
-Thirteen Missions Over Plymouth (a waypoint drone survey, Plymouth, Minnesota) — Matthew Guertin, 2026. CC BY 4.0.
+Thirteen Mission Waypoint Drone Survey | Plymouth, Minnesota, USA — Matthew Guertin, 2026. CC BY 4.0.
 https://github.com/Matt1Up/plymouth-mn-residential-survey-photogrammetry-dataset
 ```
 

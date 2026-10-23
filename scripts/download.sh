@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Download the Thirteen Missions Over Plymouth dataset from Hugging Face.
+# Download the Thirteen Mission Waypoint Drone Survey (Plymouth, Minnesota) dataset from Hugging Face.
 #   ./scripts/download.sh --images     the 1,421 images, file by file (resumable)
 #   ./scripts/download.sh --zip        the same images as one ZIP
 #   ./scripts/download.sh --poses      camera poses and tie points

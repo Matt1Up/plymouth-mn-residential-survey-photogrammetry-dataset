@@ -1,0 +1,9 @@
+# The 7 images that did not align in the published solve (RealityScan 2.2, one component of 1,414 cameras).
+# Their photos are still in survey/images/. Format: filename  mission  mission_type
+DJI_20261022152727_0617_D.JPG  7  orbit
+DJI_20261022160708_0224_D.JPG  12  grid-ew
+DJI_20261022160711_0225_D.JPG  12  grid-ew
+DJI_20261022160714_0226_D.JPG  12  grid-ew
+DJI_20261022160717_0227_D.JPG  12  grid-ew
+DJI_20261022161252_0271_D.JPG  13  grid-ns
+DJI_20261022161255_0272_D.JPG  13  grid-ns

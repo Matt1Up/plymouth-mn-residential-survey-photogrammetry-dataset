@@ -1,0 +1,14 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description xcr:Version="4" xcr:ExportCoordinateSystemType="3" xcr:PosePrior="initial"
+       xcr:Coordinates="absolute" xcr:DistortionModel="brown3" xcr:FocalLength35mm="24.0318803461408"
+       xcr:Skew="0" xcr:AspectRatio="1" xcr:PrincipalPointU="-0.00145665219855084"
+       xcr:PrincipalPointV="-0.00495996186978605" xcr:CalibrationPrior="initial"
+       xcr:CalibrationGroup="-1" xcr:DistortionGroup="-1" xcr:InTexturing="1"
+       xcr:InMeshing="1" xmlns:xcr="http://www.capturingreality.com/ns/xcr/1.1#">
+      <xcr:Rotation>0.01933092713098612 -0.9997572636723626 -0.01057019349899761 -0.9998053521865315 -0.019371424577747556 0.003742412189583662 -0.003946263476330346 0.010495791736614139 -0.9999371307039245</xcr:Rotation>
+      <xcr:Position>-90.00694004882433 -81.17969856990639 59.300741857582864</xcr:Position>
+      <xcr:DistortionCoeficients>0.115236256604994 -0.328146100988646 0.30758001535315 0 0 0</xcr:DistortionCoeficients>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

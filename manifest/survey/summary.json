@@ -1,0 +1,104 @@
+{
+  "images": 1421,
+  "bytes": 16229060608,
+  "gb": 16.23,
+  "gps_invalid": 0,
+  "camera_originals": 1421,
+  "missions": {
+    "1": {
+      "type": "orbit-large",
+      "photos": 123
+    },
+    "2": {
+      "type": "orbit",
+      "photos": 58
+    },
+    "3": {
+      "type": "orbit",
+      "photos": 60
+    },
+    "4": {
+      "type": "orbit",
+      "photos": 59
+    },
+    "5": {
+      "type": "orbit",
+      "photos": 59
+    },
+    "6": {
+      "type": "orbit",
+      "photos": 60
+    },
+    "7": {
+      "type": "orbit",
+      "photos": 60
+    },
+    "8": {
+      "type": "orbit",
+      "photos": 58
+    },
+    "9": {
+      "type": "orbit",
+      "photos": 58
+    },
+    "10": {
+      "type": "orbit",
+      "photos": 59
+    },
+    "11": {
+      "type": "orbit",
+      "photos": 59
+    },
+    "12": {
+      "type": "grid-ew",
+      "photos": 354
+    },
+    "13": {
+      "type": "grid-ns",
+      "photos": 354
+    }
+  },
+  "batteries": {
+    "1": {
+      "images": 479,
+      "missions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "first": "2026:10:22 14:59:55",
+      "last": "2026:10:22 15:29:12"
+    },
+    "2": {
+      "images": 234,
+      "missions": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "first": "2026:10:22 15:32:54",
+      "last": "2026:10:22 15:46:32"
+    },
+    "3": {
+      "images": 354,
+      "missions": [
+        12
+      ],
+      "first": "2026:10:22 15:50:20",
+      "last": "2026:10:22 16:08:14"
+    },
+    "4": {
+      "images": 354,
+      "missions": [
+        13
+      ],
+      "first": "2026:10:22 16:11:43",
+      "last": "2026:10:22 16:29:49"
+    }
+  }
+}

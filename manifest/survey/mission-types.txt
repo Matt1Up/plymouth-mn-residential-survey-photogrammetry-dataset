@@ -1,0 +1,15 @@
+# Mission types for scripts/make-manifest.py --missions: "<mission number> <type>".
+# Mission numbers are the ones the time gaps find, in capture order.
+1 orbit-large
+2 orbit
+3 orbit
+4 orbit
+5 orbit
+6 orbit
+7 orbit
+8 orbit
+9 orbit
+10 orbit
+11 orbit
+12 grid-ew
+13 grid-ns

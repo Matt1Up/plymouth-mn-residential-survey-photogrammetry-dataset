@@ -1,0 +1,19 @@
+# Coordinate frame of the published poses and tie points.
+#
+# x east, y north, in meters, on a local tangent plane with its origin at
+#   latitude 45.035200, longitude -93.415800 (WGS84).
+# z up, in meters above the drone's takeoff point (DJI RelativeAltitude), not above sea level.
+#
+# The frame comes from GPS, not from a measured scale reference. RealityScan solved the photos
+# in its own arbitrary units; the whole solve was then fitted to the photos' GPS positions with
+# one similarity transform (scale, rotation, shift). The relative geometry of the solve is unchanged.
+#
+# Fit over 1414 solved cameras, solved camera center vs its photo's GPS position:
+#   3D residual   median 3.62 m, 95th percentile 6.81 m, max 11.10 m
+#   horizontal    median 2.22 m
+#   vertical      median 2.48 m
+#
+# The transform, RealityScan frame -> this frame:  X' = s * A * X + b
+s 12.207886250368924
+A 0.2485669796574796 -0.9685972690340379 -0.005812662364458227 0.968582256079615 0.2486032997201881 -0.006694219592871357 0.007929049859933004 -0.00396607968143213 0.9999606994178718
+b -8.708904193345933 -21.132953009989475 1.2200860298484741

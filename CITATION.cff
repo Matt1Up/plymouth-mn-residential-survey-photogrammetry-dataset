@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Thirteen Missions Over Plymouth: a waypoint drone survey, Plymouth, Minnesota"
+abstract: >-
+  A complete drone photogrammetry image set of a residential complex in Plymouth, Minnesota,
+  captured October 22, 2026 with a DJI FC9313 at native 4096x3072 resolution, as 13 waypoint
+  missions planned in QGIS: two crosshatched nadir grids at 60 m, one large orbit at 60 m and
+  ten small orbits at 40 m, flown on four batteries. 1,421 images, all camera originals, GPS
+  intact on every frame, original aircraft filenames preserved, each image tagged with its
+  mission. 1,414 solve in one component; solved camera poses for the original photos in COLMAP
+  (FULL_OPENCV, one camera per photo) and RealityScan XMP formats and 3.9 million tie points are
+  included, in a metric frame fitted to the photos' GPS. There is no physical scale reference.
+authors:
+  - family-names: Guertin
+    given-names: Matthew
+    website: "https://mattguertin.com"
+date-released: 2026-10-23
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - photogrammetry
+  - drone
+  - uav
+  - aerial imagery
+  - 3D reconstruction
+  - structure from motion
+  - gaussian splatting
+  - dataset
+  - camera poses
+  - colmap
+  - waypoint mission
+  - nadir grid
+  - orbit
+  - residential
+repository-code: "https://github.com/Matt1Up/plymouth-mn-residential-survey-photogrammetry-dataset"
